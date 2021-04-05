@@ -135,3 +135,8 @@ ol.menulist>li
 	width:100px;
 	height: 80px;
 }
+#display_menu{
+	font-size: 18px;
+	font-style: italic;
+	color: yellow;
+}
